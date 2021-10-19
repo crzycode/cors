@@ -1,0 +1,6 @@
+becouse i have a knowledge about all these and i know i can do it well
+
+yes  i am available for full time for a long time and immediately i can start
+
+    var cors = new EnableCorsAttribute("*","*","*");
+            RouteConfig.EnableCors(cors);
